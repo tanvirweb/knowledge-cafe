@@ -6,11 +6,11 @@ function App() {
 	return (
 		<>
 			<Navigation></Navigation>
-			<div className='flex max-w-7xl px-4 mx-auto'>
-				<main className='w-9/12'>
+			<div className='md:flex max-w-7xl gap-8 px-4 mx-auto'>
+				<main className='md:w-8/12 space-y-12'>
 					<Blogs></Blogs>
 				</main>
-				<aside className='w-3/12'>
+				<aside className='md:w-4/12'>
 
 				</aside>
 			</div>
