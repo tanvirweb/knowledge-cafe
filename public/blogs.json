@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "10 Myths About Space Exploration",
+      "cover_img": "https://images.pexels.com/photos/2156/sky-earth-space-working.jpg",
+      "author": "John Smith",
+      "author_img": "https://images.pexels.com/users/avatars/224453/andrea-piacquadio-138.jpeg",
+      "tags": ["Space", "Science", "Myths"],
+      "reading_time": 8,
+      "posted_date": "12 September 2023",
+      "category": "Science"
+    },
+    {
+      "id": 2,
+      "title": "The Art of Cooking: A Culinary Journey",
+      "cover_img": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg",
+      "author": "Sarah Johnson",
+      "author_img": "https://images.pexels.com/users/avatars/2149839/thisisengineering-344.jpeg",
+      "tags": ["Cooking", "Food", "Culinary"],
+      "reading_time": 12,
+      "posted_date": "10 September 2023",
+      "category": "Food & Cooking"
+    },
+    {
+      "id": 3,
+      "title": "Exploring Hidden Gems: Traveling Off the Beaten Path",
+      "cover_img": "https://images.pexels.com/photos/1230302/pexels-photo-1230302.jpeg",
+      "author": "Emily Davis",
+      "author_img": "https://images.pexels.com/users/avatars/649765/yaroslav-shuraev-394.jpeg",
+      "tags": ["Travel", "Adventure", "Exploration"],
+      "reading_time": 15,
+      "posted_date": "8 September 2023",
+      "category": "Travel"
+    },
+    {
+      "id": 4,
+      "title": "Tech Trends: The Future of Artificial Intelligence",
+      "cover_img": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
+      "author": "David Wilson",
+      "author_img": "https://images.pexels.com/users/avatars/2149839/thisisengineering-344.jpeg",
+      "tags": ["Technology", "AI", "Future"],
+      "reading_time": 10,
+      "posted_date": "6 September 2023",
+      "category": "Technology"
+    },
+    {
+      "id": 5,
+      "title": "Healthy Living: Tips for a Balanced Lifestyle",
+      "cover_img": "https://images.pexels.com/photos/3764537/pexels-photo-3764537.jpeg",
+      "author": "Lisa Roberts",
+      "author_img": "https://images.pexels.com/users/avatars/649765/yaroslav-shuraev-394.jpeg",
+      "tags": ["Health", "Wellness", "Lifestyle"],
+      "reading_time": 7,
+      "posted_date": "4 September 2023",
+      "category": "Health & Wellness"
+    }
+]
+  
