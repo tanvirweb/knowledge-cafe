@@ -13,9 +13,13 @@ function App() {
 		setBookmarks(newBookmarks);
 	}
 
-	const handleMarkRead = (time) => {
+	const handleMarkRead = (id, time) => {
 		const newTime = readingTime + time;
 		setReadingTime(newTime);
+		
+		// Remove Bookmark item clicking on "Mark as Read"
+		const newBookmarks = bookmarks.filter(bookmark => bookmark.id !== id);
+		setBookmarks(newBookmarks);
 	}
 
 	return (
@@ -33,4 +37,4 @@ function App() {
 	)
 }
 
-export default App
+export default App;
